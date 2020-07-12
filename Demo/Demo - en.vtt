@@ -1,0 +1,53 @@
+WEBVTT - Demo
+
+00:15.000 --> 00:25.000
+Data set loading and tokenization.
+
+
+00:30.000 --> 00:35.000
+Training starts.
+
+
+00:40.000 --> 01:00.000
+Training loop: several epochs, each epoch has several training batches on which the training step is made and several test batches on which the test step is made.
+
+
+01:05.000 --> 01:09.000
+For each epoch, the loss and accuracy are calculated, as well as the running time.
+
+
+01:10.000 --> 01:50.000
+Graphics are made during training. The graphs show real-time changes in accuracy and loss.
+
+
+01:55.000 --> 02:05.000
+Every fifth epoch a checkpoint is made to save the trained model.
+
+
+02:10.000 --> 02:55.000
+Training for 100 epochs.
+
+
+03:00.000 --> 03:04.000
+The training is over.
+
+
+03:05.000 --> 03:09.000
+An epoch for evaluation.
+
+03:10.000 --> 03:25.000
+Examples of correction.
+
+
+03:27.000 --> 03:28.500
+Calculation of the BLEU score (interruption after 5 examples from the validation data set, approximately 2 hours).
+
+
+03:29.000 --> 03:29.999
+Saving checkpoints and logs for graphs.
+
+
+03:30.000 --> 03:32.000
+Thanks!
+
+

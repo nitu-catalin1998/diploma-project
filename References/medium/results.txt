@@ -1,0 +1,7 @@
+medium: 100 EPOCI (2h 45m 22s)
+99.22819401 secunde / epoca
+evaluare:
+Epoch 0 Batch 0 Loss 0.1606 Accuracy 0.4174
+Epoch 0 Loss 0.5635 Accuracy 0.3464
+Time taken for 1 epoch: 3.3607399463653564 secs
+BLEU score: 0.33298676698158575

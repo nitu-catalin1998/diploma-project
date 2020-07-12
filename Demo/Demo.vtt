@@ -1,0 +1,54 @@
+WEBVTT - Demo
+
+00:15.000 --> 00:25.000
+Încărcarea setului de date și tokenizarea acestuia.
+
+
+00:30.000 --> 00:35.000
+Începe antrenarea.
+
+
+00:40.000 --> 01:00.000
+Bucla de antrenare: mai multe epoci, fiecare epocă are mai multe loturi de antrenare pe care se face pasul de antrenare și mai multe loturi de testare pe care se face pasul de testare.
+
+
+01:05.000 --> 01:09.000
+Pentru fiecare epocă se calculează pierderea și acuratețea, dar și timpul de rulare.
+
+
+01:10.000 --> 01:50.000
+Sunt realizate grafice în timpul antrenării. Graficele prezintă modificările în timp real ale acurateței și pierderii.
+
+
+01:55.000 --> 02:05.000
+La fiecare a cincea epocă se realizează un punct de control pentru a salva modelul antrenat.
+
+
+02:10.000 --> 02:55.000
+Antrenarea pe 100 de epoci.
+
+
+03:00.000 --> 03:04.000
+Antrenarea s-a terminat.
+
+
+03:05.000 --> 03:09.000
+O epocă de evaluare.
+
+
+03:10.000 --> 03:25.000
+Exemple de corectare.
+
+
+03:27.000 --> 03:28.500
+Calcularea scorului BLEU (întrerupere după 5 exemple din setul de date de validare, aproximativ 2 ore).
+
+
+03:29.000 --> 03:29.999
+Salvarea punctelor de control și a logurilor pentru grafice.
+
+
+03:30.000 --> 03:32.000
+Mulțumesc!
+
+
